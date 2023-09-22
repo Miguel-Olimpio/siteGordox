@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/siteGordox/static/css/main.05132449.css",
+    "main.js": "/siteGordox/static/js/main.18720937.js",
+    "static/js/787.a971cdf5.chunk.js": "/siteGordox/static/js/787.a971cdf5.chunk.js",
+    "static/media/raio.png": "/siteGordox/static/media/raio.c69e069ba7fd078766aa.png",
+    "static/media/telecomunicações.jpg": "/siteGordox/static/media/telecomunicações.2d8f4f7510253d838e5d.jpg",
+    "static/media/articles.png": "/siteGordox/static/media/articles.57a4c4d9d4aed8bcd463.png",
+    "static/media/banner1.jpeg": "/siteGordox/static/media/banner1.1fd4b8893e7119de364d.jpeg",
+    "static/media/curriculoProfissional.png": "/siteGordox/static/media/curriculoProfissional.8e41a0b37c87fbc68135.png",
+    "static/media/empresasParceiras.png": "/siteGordox/static/media/empresasParceiras.98a6bf2bba5ff9f2bcc5.png",
+    "static/media/curriculoAcademico1.png": "/siteGordox/static/media/curriculoAcademico1.ef4a460606c5d355d3c0.png",
+    "static/media/fotovoltaicos.jpg": "/siteGordox/static/media/fotovoltaicos.ebe6960e84a978ab1bfe.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/siteGordox/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/siteGordox/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/siteGordox/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/logo.png": "/siteGordox/static/media/logo.dfab5089ab60a561a971.png",
+    "static/media/projetosEletricos.jpg": "/siteGordox/static/media/projetosEletricos.9b038fb7094d6f943fa0.jpg",
+    "static/media/nav-icon2.png": "/siteGordox/static/media/nav-icon2.4d298108e4d9483409e3.png",
+    "static/media/revicons.eot": "/siteGordox/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/siteGordox/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/siteGordox/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/siteGordox/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/siteGordox/index.html",
+    "static/media/nav-icon1.svg": "/siteGordox/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.05132449.css.map": "/siteGordox/static/css/main.05132449.css.map",
+    "main.18720937.js.map": "/siteGordox/static/js/main.18720937.js.map",
+    "787.a971cdf5.chunk.js.map": "/siteGordox/static/js/787.a971cdf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05132449.css",
+    "static/js/main.18720937.js"
+  ]
+}
